@@ -1,0 +1,7 @@
+.banner {
+  background-image: linear-gradient(0deg, grey 0%, yellow 50%);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}

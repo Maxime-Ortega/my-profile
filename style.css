@@ -1,0 +1,51 @@
+@import url("components/banner.css");
+
+body{
+  background-color: #FCE992;
+  font-size: 25px;
+  font-family: Roboto, sans-serif;
+  list-style: 1,8;
+  letter-spacing: 1;
+  color: font-family(30, 30, 30);
+}
+
+h1,h2,h3 {
+  font-family: Roboto,sans-serif;
+}
+
+h1{
+  color:orangered;
+  font-size: 30px ;
+  width: 280px;
+  margin: 0 auto;
+}
+
+h2{
+  color: black;
+  font-size: 16px;
+  width: 560px ;
+  margin:10px auto ;
+}
+
+.https{
+  font-size: 22px;
+  font-family: sans-serif;
+  width: 850px;
+  text-align: center;
+}
+
+.formation{
+  color: black;
+  font-size: 20px;
+  width: 270px;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-size: 16px;
+  font-family: sans-serif;
+  width: 700px;
+}
+
+
